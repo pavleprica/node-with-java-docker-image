@@ -1,1 +1,0 @@
-# node-with-java-docker-image
